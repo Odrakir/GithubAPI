@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CombineNetworking",
+        "repositoryURL": "https://github.com/Odrakir/CombineNetworking",
+        "state": {
+          "branch": null,
+          "revision": "67a844f6a4affdb325d5df63faf980ca6abf21ef",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
